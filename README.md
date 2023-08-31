@@ -1,5 +1,7 @@
 # This extension is still in development, so expect bugs. Please report them on the issues tab of the [GitHub repository](https://www.github.com/undersquire/perfect-github-theme).
 
+Originally made by @undersquire
+
 A (mostly) perfect recreation of Github's color themes for Visual Studio Code.
 
 ## Screenshots
@@ -11,7 +13,7 @@ A (mostly) perfect recreation of Github's color themes for Visual Studio Code.
 
 Make sure you have NPM installed before beginning this process.
 
-1. Clone the project - `git clone https://www.github.com/undersquire/perfect-github-theme`
+1. Clone the project - `git clone https://www.github.com/m1ten/perfect-github-theme`
 2. Install `vsce` if you haven't already - `npm install -g vsce`
 3. Package the extension - `vsce package`
 

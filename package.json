@@ -2,9 +2,9 @@
     "name": "perfect-github-theme",
     "displayName": "Perfect Github Theme",
     "description": "Exact copy of Github's color theme for Visual Studio Code",
-    "repository": "https://www.github.com/undersquire/perfect-github-theme",
-    "publisher": "undersquire",
-    "version": "0.0.3",
+    "repository": "https://www.github.com/m1ten/perfect-github-theme",
+    "publisher": "miten-vsc",
+    "version": "0.0.4",
     "icon": "icon.png",
     "engines": {
         "vscode": "^1.63.0"
